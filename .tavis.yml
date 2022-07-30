@@ -1,0 +1,5 @@
+language:bash
+script:
+  - echo "hello"
+  - echo "travis CI test in .tavis.yml"
+  - ./same-test.sh
